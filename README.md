@@ -2,7 +2,7 @@
 - 👀 I’m interested in robotics
 - 🌱 I’m currently learning ros2
 - 💞️ I’m looking to collaborate on lidar perception
-- 📫 How to reach me: postfach100@magenta.de
+- 📫 How to reach me:
 
 <!---
 FelixSchmidtBrand/FelixSchmidtBrand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
